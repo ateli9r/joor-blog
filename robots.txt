@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog.j-o.o-r.kr/sitemap.xml
